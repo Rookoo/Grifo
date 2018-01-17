@@ -1,3 +1,3 @@
 # Grifo
-.
-grifo.ct8.pl
+
+http://grifo.ct8.pl
