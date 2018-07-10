@@ -1,3 +1,2 @@
 # Grifo
-
-http://grifo.ct8.pl
+http://grifo.seba124.usermd.net/
